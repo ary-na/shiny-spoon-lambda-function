@@ -10,3 +10,5 @@ For more information visit [Academic Integrity at RMIT](https://www.rmit.edu.au/
 
 https://docs.aws.amazon.com/lambda/latest/dg/python-image.html#python-image-create
 
+https://docs.aws.amazon.com/lambda/latest/dg/images-create.html#images-create-from-base
+
