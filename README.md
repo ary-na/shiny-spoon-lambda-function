@@ -6,3 +6,7 @@ RMIT University - Academic Integrity Warning:
 For more information visit [Academic Integrity at RMIT](https://www.rmit.edu.au/students/my-course/assessment-results/academic-integrity)
 
 ## References
+
+
+https://docs.aws.amazon.com/lambda/latest/dg/python-image.html#python-image-create
+
