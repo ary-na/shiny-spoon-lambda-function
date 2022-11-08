@@ -4,12 +4,12 @@ RMIT University - Academic Integrity Warning:
 > "For serious breaches of academic integrity, students can be charged with academic misconduct. Possible penalties include **cancellation of results** and **expulsion resulting in the cancellation of a student's program**."
 For more information visit [Academic Integrity at RMIT](https://www.rmit.edu.au/students/my-course/assessment-results/academic-integrity)
 
-## Functionality
+### Functionality
 
 - The function sends an email notification when users sign up with the Shiny Spoon platform. 
 - It uses Gmail API to send automated emails to new users.
 
-### References
+## References
 
 [1] “Deploy Python Lambda functions with container images - AWS Lambda,” docs.aws.amazon.com. https://docs.aws.amazon.com/lambda/latest/dg/python-image.html#python-image-create (accessed Nov. 07, 2022).
 ‌
@@ -54,4 +54,25 @@ For more information visit [Academic Integrity at RMIT](https://www.rmit.edu.au/
 ‌
 
 [15] I. Nellutla, “Invoking AWS Lambda functions from a Flask App,” Qxf2 BLOG, Dec. 21, 2018. https://qxf2.com/blog/invoking-aws-lambda-functions-from-a-flask-app/ (accessed Nov. 08, 2022).
+‌
+
+[16] “docker - Can’t push image to Amazon ECR - fails with ‘no basic auth credentials,’” Stack Overflow. https://stackoverflow.com/questions/34689445/cant-push-image-to-amazon-ecr-fails-with-no-basic-auth-credentials (accessed Nov. 08, 2022).
+‌
+
+[17] “Can not push docker container to Amazon ecr,” Stack Overflow. https://stackoverflow.com/questions/51190645/can-not-push-docker-container-to-amazon-ecr (accessed Nov. 08, 2022).
+‌
+
+[18] “Using Amazon ECR with the AWS CLI - Amazon ECR,” docs.aws.amazon.com. https://docs.aws.amazon.com/AmazonECR/latest/userguide/getting-started-cli.html (accessed Nov. 08, 2022).
+‌
+
+[19] “Private registry authentication - Amazon ECR,” docs.aws.amazon.com. https://docs.aws.amazon.com/AmazonECR/latest/userguide/registry_auth.html (accessed Nov. 08, 2022).
+‌
+
+[20] “Using Amazon ECR with the AWS CLI - Amazon ECR,” docs.aws.amazon.com. https://docs.aws.amazon.com/AmazonECR/latest/userguide/getting-started-cli.html (accessed Nov. 08, 2022).
+‌
+
+[21] “Installing or updating the latest version of the AWS CLI - AWS Command Line Interface,” docs.aws.amazon.com. https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+‌
+
+[22] “Private registry authentication - Amazon ECR,” docs.aws.amazon.com. https://docs.aws.amazon.com/AmazonECR/latest/userguide/registry_auth.html (accessed Nov. 08, 2022).
 ‌
