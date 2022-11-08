@@ -76,3 +76,6 @@ For more information visit [Academic Integrity at RMIT](https://www.rmit.edu.au/
 
 [22] “Private registry authentication - Amazon ECR,” docs.aws.amazon.com. https://docs.aws.amazon.com/AmazonECR/latest/userguide/registry_auth.html (accessed Nov. 08, 2022).
 ‌
+
+[23] “Docker does not copy json file inside image,” Stack Overflow. https://stackoverflow.com/questions/53841025/docker-does-not-copy-json-file-inside-image (accessed Nov. 08, 2022).
+‌
