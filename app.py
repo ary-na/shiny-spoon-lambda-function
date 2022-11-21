@@ -29,7 +29,6 @@ def handler(event, context):
 
 # Send email
 def send_email(user_email, username):
-
     creds = Credentials.from_authorized_user_file('token.json')
 
     email_content = f'''
@@ -101,3 +100,7 @@ def authorise_and_login():
 
     except HttpError as error:
         print(f'An error occurred: {error}')
+
+
+# if __name__ == "__main__":
+#     authorise_and_login()
